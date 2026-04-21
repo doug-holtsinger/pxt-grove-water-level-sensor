@@ -1,0 +1,14 @@
+{
+  "name": "water-level-sensor",
+  "version": "0.0.1",
+  "description": "20‑section water level sensor using ATTINY I2C",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "extension.ts",
+    "README.md"
+  ],
+  "public": true
+}
